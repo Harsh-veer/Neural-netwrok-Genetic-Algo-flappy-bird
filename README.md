@@ -1,2 +1,2 @@
-# Neural-netwrok-Genetic-Algo-flappy-bird
-Training a neural network to play flappy bird, optimisation done using genetic algorithm
+# Flappy Bird Genetic Algorithm
+Neural network for playing flappy bird, optimization done using genetic algorithm
